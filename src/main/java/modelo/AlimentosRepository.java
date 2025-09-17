@@ -3,7 +3,7 @@ package modelo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AlimentoRepository {
+public class AlimentosRepository {
 	
 	public void registrarAlimento (Alimento a) {
 		//TODO guardar datos de un alimento en base de datos
